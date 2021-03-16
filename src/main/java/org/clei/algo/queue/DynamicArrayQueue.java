@@ -1,4 +1,4 @@
-package org.clei.alo.queue;
+package org.clei.algo.queue;
 
 public class DynamicArrayQueue {
     private String[] items;

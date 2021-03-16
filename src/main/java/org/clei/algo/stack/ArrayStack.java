@@ -1,4 +1,4 @@
-package org.clei.alo.stack;
+package org.clei.algo.stack;
 
 public class ArrayStack {
     private String[] items;
