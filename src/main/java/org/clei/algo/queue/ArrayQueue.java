@@ -1,5 +1,5 @@
 package org.clei.algo.queue;
-
+#Array Queue sorting
 public class ArrayQueue {
     private String[] items;
     private int n;
